@@ -1,0 +1,126 @@
+## Unity project .gitattributes
+## Purpose: make this repo behave identically on macOS and Windows.
+##  - Normalizes text line endings (no CRLF/LF churn or noisy diffs).
+##  - Forces Unity's serialized YAML assets to LF and marks them for smart merge.
+##  - Marks binary asset types as binary so Git never munges them.
+##
+## Git LFS is intentionally NOT enabled here: git-lfs is not installed on this
+## machine. Binaries are committed normally for now. See the LFS section at the
+## bottom for how to switch large binaries to LFS later.
+
+# Auto-detect text files; store them as LF in the repository.
+* text=auto
+
+## ---- Source / config / text ----
+*.cs             text diff=csharp
+*.cginc          text
+*.shader         text
+*.compute        text
+*.hlsl           text
+*.json           text
+*.md             text
+*.txt            text
+*.xml            text
+*.csv            text
+*.yml            text
+*.yaml           text
+*.uxml           text
+*.uss            text
+*.asmdef         text
+*.asmref         text
+
+# Shell scripts must stay LF; Windows batch files must stay CRLF.
+*.sh             text eol=lf
+*.bash           text eol=lf
+*.bat            text eol=crlf
+*.cmd            text eol=crlf
+
+## ---- Unity serialized assets (YAML) ----
+## Force LF (Unity defaults to "OS Native", which causes Mac/Windows churn) and
+## use Unity's smart merge tool. `merge=unityyamlmerge` only takes effect if a
+## teammate has configured it in their local git config; otherwise Git falls
+## back to a normal merge, so this is safe to commit regardless.
+*.unity          text eol=lf merge=unityyamlmerge
+*.prefab         text eol=lf merge=unityyamlmerge
+*.asset          text eol=lf merge=unityyamlmerge
+*.meta           text eol=lf merge=unityyamlmerge
+*.mat            text eol=lf merge=unityyamlmerge
+*.anim           text eol=lf merge=unityyamlmerge
+*.controller     text eol=lf merge=unityyamlmerge
+*.overrideController text eol=lf merge=unityyamlmerge
+*.physicMaterial text eol=lf merge=unityyamlmerge
+*.physicsMaterial2D text eol=lf merge=unityyamlmerge
+*.playable       text eol=lf merge=unityyamlmerge
+*.mask           text eol=lf merge=unityyamlmerge
+*.brush          text eol=lf merge=unityyamlmerge
+*.flare          text eol=lf merge=unityyamlmerge
+*.fontsettings   text eol=lf merge=unityyamlmerge
+*.guiskin        text eol=lf merge=unityyamlmerge
+*.giparams       text eol=lf merge=unityyamlmerge
+*.renderTexture  text eol=lf merge=unityyamlmerge
+*.spriteatlas    text eol=lf merge=unityyamlmerge
+*.terrainlayer   text eol=lf merge=unityyamlmerge
+*.mixer          text eol=lf merge=unityyamlmerge
+*.shadervariants text eol=lf merge=unityyamlmerge
+*.preset         text eol=lf merge=unityyamlmerge
+*.signal         text eol=lf merge=unityyamlmerge
+
+## ---- Binary asset types (never treat as text) ----
+# Images / textures
+*.png            binary
+*.jpg            binary
+*.jpeg           binary
+*.gif            binary
+*.bmp            binary
+*.tga            binary
+*.tif            binary
+*.tiff           binary
+*.iff            binary
+*.pict           binary
+*.psd            binary
+*.exr            binary
+*.hdr            binary
+*.cubemap        binary
+# 3D models
+*.fbx            binary
+*.obj            binary
+*.blend          binary
+*.dae            binary
+*.3ds            binary
+*.dxf            binary
+*.max            binary
+*.c4d            binary
+*.mb             binary
+*.ma             binary
+# Audio
+*.wav            binary
+*.mp3            binary
+*.ogg            binary
+*.aif            binary
+*.aiff           binary
+*.flac           binary
+# Video
+*.mp4            binary
+*.mov            binary
+*.webm           binary
+# Fonts
+*.ttf            binary
+*.otf            binary
+# Native libs / packages
+*.dll            binary
+*.so             binary
+*.dylib          binary
+*.a              binary
+*.aar            binary
+*.jar            binary
+*.bundle         binary
+*.unitypackage   binary
+
+## ---- Enabling Git LFS later (optional, recommended for real art assets) ----
+## When the project starts holding large binaries, move them to LFS:
+##   1) Install:  macOS -> `brew install git-lfs`   Windows -> https://git-lfs.com
+##   2) Run once per machine:  `git lfs install`
+##   3) For each binary type above, replace `binary` with:
+##          filter=lfs diff=lfs merge=lfs -text
+##      e.g.  *.png  filter=lfs diff=lfs merge=lfs -text
+##   4) Migrate already-committed binaries:  `git lfs migrate import --include="*.png,*.fbx,..."`
