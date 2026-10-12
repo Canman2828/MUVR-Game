@@ -1,0 +1,2051 @@
+{
+  "materials": [
+    {
+      "source": "Brick_Campus",
+      "name": "Brick_Campus_c7c5d",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.800000011920929,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 0.699999988079071,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Brick_Campus_c7c5d_BaseColor_4841b_Color.png",
+      "Roughness": "Brick_Campus_c7c5d_Roughness_ae1e4_Data.png",
+      "Normal": "Brick_Campus_c7c5d_Normal_33d99_Data.png",
+      "fbx_material": "SP_Brick_Campus_c7c5d",
+      "MetallicSmoothness": "Brick_Campus_c7c5d_MetallicSmoothness.png"
+    },
+    {
+      "source": "Carved_Weathered_Stone",
+      "name": "Carved_Weathered_Stone_94271",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.800000011920929,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 0.699999988079071,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Carved_Weathered_Stone_94271_BaseColor_aa055_Color.png",
+      "Roughness": "Carved_Weathered_Stone_94271_Roughness_850d1_Data.png",
+      "Normal": "Carved_Weathered_Stone_94271_Normal_ceb29_Data.png",
+      "fbx_material": "SP_Carved_Weathered_Stone_94271",
+      "MetallicSmoothness": "Carved_Weathered_Stone_94271_MetallicSmoothness.png"
+    },
+    {
+      "source": "Carved_Weathered_Stone.001",
+      "name": "Carved_Weathered_Stone_001_c1dfd",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.800000011920929,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 0.699999988079071,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Carved_Weathered_Stone_001_c1dfd_BaseColor_81863_Color.png",
+      "Roughness": "Carved_Weathered_Stone_001_c1dfd_Roughness_bd088_Data.png",
+      "Normal": "Carved_Weathered_Stone_001_c1dfd_Normal_1e6e0_Data.png",
+      "fbx_material": "SP_Carved_Weathered_Stone_001_c1dfd",
+      "MetallicSmoothness": "Carved_Weathered_Stone_001_c1dfd_MetallicSmoothness.png"
+    },
+    {
+      "source": "Courtyard_Paving",
+      "name": "Courtyard_Paving_af8b9",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.800000011920929,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 0.699999988079071,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Courtyard_Paving_af8b9_BaseColor_d9131_Color.png",
+      "Roughness": "Courtyard_Paving_af8b9_Roughness_1283b.png",
+      "Normal": "Courtyard_Paving_af8b9_Normal_9e8fa_Data.png",
+      "fbx_material": "SP_Courtyard_Paving_af8b9",
+      "MetallicSmoothness": "Courtyard_Paving_af8b9_MetallicSmoothness.png"
+    },
+    {
+      "source": "Detail_Oxidized_Bronze",
+      "name": "Detail_Oxidized_Bronze_ce530",
+      "base_color": [
+        0.07199999690055847,
+        0.09000000357627869,
+        0.06300000101327896,
+        1.0
+      ],
+      "roughness": 0.47999998927116394,
+      "metallic": 0.75,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP_Detail_Oxidized_Bronze_ce530"
+    },
+    {
+      "source": "Detail_Stagnant_Water",
+      "name": "Detail_Stagnant_Water_fbf52",
+      "base_color": [
+        0.01600000075995922,
+        0.02800000086426735,
+        0.019999999552965164,
+        1.0
+      ],
+      "roughness": 0.17000000178813934,
+      "metallic": 0.11999999731779099,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP_Detail_Stagnant_Water_fbf52"
+    },
+    {
+      "source": "Excavated_Soil",
+      "name": "Excavated_Soil_2b8ce",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.800000011920929,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 0.699999988079071,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Excavated_Soil_2b8ce_BaseColor_7ddb7_Color.png",
+      "Roughness": "Excavated_Soil_2b8ce_Roughness_235c2_Data.png",
+      "Normal": "Excavated_Soil_2b8ce_Normal_5a958_Data.png",
+      "fbx_material": "SP_Excavated_Soil_2b8ce",
+      "MetallicSmoothness": "Excavated_Soil_2b8ce_MetallicSmoothness.png"
+    },
+    {
+      "source": "Ivy_Atlas.001",
+      "name": "Ivy_Atlas_001_dffa4",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.8500000238418579,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Ivy_Atlas_001_dffa4_BaseColorAlpha.png",
+      "Alpha": "Ivy_Atlas_001_dffa4_Alpha_d0951.png",
+      "fbx_material": "SP_Ivy_Atlas_001_dffa4"
+    },
+    {
+      "source": "SVGMat.001",
+      "name": "SVGMat_001_78526",
+      "base_color": [
+        0.029999999329447746,
+        0.057999998331069946,
+        0.06199999898672104,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP_SVGMat_001_78526"
+    },
+    {
+      "source": "SVGMat.004",
+      "name": "SVGMat_004_35e21",
+      "base_color": [
+        0.9911020994186401,
+        0.9911020994186401,
+        0.9911020994186401,
+        1.0
+      ],
+      "roughness": 0.8,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP_SVGMat_004_35e21"
+    },
+    {
+      "source": "SVGMat.006",
+      "name": "SVGMat_006_dba4a",
+      "base_color": [
+        0.029999999329447746,
+        0.057999998331069946,
+        0.06199999898672104,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP_SVGMat_006_dba4a"
+    },
+    {
+      "source": "Scanned_Bark.001",
+      "name": "Scanned_Bark_001_4dce9",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.800000011920929,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 0.699999988079071,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Scanned_Bark_001_4dce9_BaseColor_3f2ab_Color.png",
+      "Roughness": "Scanned_Bark_001_4dce9_Roughness_e452b_Data.png",
+      "Normal": "Scanned_Bark_001_4dce9_Normal_58a93_Data.png",
+      "fbx_material": "SP_Scanned_Bark_001_4dce9",
+      "MetallicSmoothness": "Scanned_Bark_001_4dce9_MetallicSmoothness.png"
+    },
+    {
+      "source": "Shamrock_Weathered_Mosaic",
+      "name": "Shamrock_Weathered_Mosaic_f6e2c",
+      "base_color": [
+        0.4000000059604645,
+        0.4000000059604645,
+        0.3499999940395355,
+        1.0
+      ],
+      "roughness": 0.8700000047683716,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Shamrock_Weathered_Mosaic_f6e2c_BaseColor_0197e_Color.png",
+      "fbx_material": "SP_Shamrock_Weathered_Mosaic_f6e2c"
+    },
+    {
+      "source": "Weathered_Timber",
+      "name": "Weathered_Timber_8bb9b",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.800000011920929,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 0.699999988079071,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Weathered_Timber_8bb9b_BaseColor_de667_Color.png",
+      "Roughness": "Weathered_Timber_8bb9b_Roughness_59107_Data.png",
+      "Normal": "Weathered_Timber_8bb9b_Normal_1dfe3_Data.png",
+      "fbx_material": "SP_Weathered_Timber_8bb9b",
+      "MetallicSmoothness": "Weathered_Timber_8bb9b_MetallicSmoothness.png"
+    },
+    {
+      "source": "Window Glass",
+      "name": "Window_Glass_10a38",
+      "base_color": [
+        0.0096631720662117,
+        0.006541691720485687,
+        0.015275025740265846,
+        1.0
+      ],
+      "roughness": 0.0,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP_Window_Glass_10a38"
+    },
+    {
+      "source": "Wood.001",
+      "name": "Wood_001_dcbcc",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.48404306173324585,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Wood_001_dcbcc_BaseColor_05076_Color.png",
+      "fbx_material": "SP_Wood_001_dcbcc"
+    },
+    {
+      "source": "Wood.002",
+      "name": "Wood_002_361fe",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.48404306173324585,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Wood_001_dcbcc_BaseColor_05076_Color.png",
+      "fbx_material": "SP_Wood_002_361fe"
+    },
+    {
+      "source": "Wood.005",
+      "name": "Wood_005_f7ac8",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.48404306173324585,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Wood_001_dcbcc_BaseColor_05076_Color.png",
+      "fbx_material": "SP_Wood_005_f7ac8"
+    },
+    {
+      "source": "Wood.006",
+      "name": "Wood_006_da90f",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.48404306173324585,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Wood_001_dcbcc_BaseColor_05076_Color.png",
+      "fbx_material": "SP_Wood_006_da90f"
+    },
+    {
+      "source": "Wood.007",
+      "name": "Wood_007_5a2ae",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.48404306173324585,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Wood_001_dcbcc_BaseColor_05076_Color.png",
+      "fbx_material": "SP_Wood_007_5a2ae"
+    },
+    {
+      "source": "Wood.008",
+      "name": "Wood_008_d8a9a",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.48404306173324585,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Wood_001_dcbcc_BaseColor_05076_Color.png",
+      "fbx_material": "SP_Wood_008_d8a9a"
+    },
+    {
+      "source": "Wood.009",
+      "name": "Wood_009_615c4",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.48404306173324585,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Wood_001_dcbcc_BaseColor_05076_Color.png",
+      "fbx_material": "SP_Wood_009_615c4"
+    },
+    {
+      "source": "Wood.010",
+      "name": "Wood_010_22d4a",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.48404306173324585,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Wood_001_dcbcc_BaseColor_05076_Color.png",
+      "fbx_material": "SP_Wood_010_22d4a"
+    },
+    {
+      "source": "Wood.011",
+      "name": "Wood_011_666a6",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.48404306173324585,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Wood_001_dcbcc_BaseColor_05076_Color.png",
+      "fbx_material": "SP_Wood_011_666a6"
+    },
+    {
+      "source": "Wood.012",
+      "name": "Wood_012_1a129",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.48404306173324585,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "Wood_001_dcbcc_BaseColor_05076_Color.png",
+      "fbx_material": "SP_Wood_012_1a129"
+    },
+    {
+      "source": "barrel_stove",
+      "name": "barrel_stove_dc54f",
+      "base_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "barrel_stove_dc54f_BaseColor_17a38_Color.png",
+      "Roughness": "barrel_stove_dc54f_Roughness_ba066_Data.png",
+      "Metallic": "barrel_stove_dc54f_Metallic_824d7_Data.png",
+      "Normal": "barrel_stove_dc54f_Normal_e8d3f_Data.png",
+      "fbx_material": "SP_barrel_stove_dc54f",
+      "MetallicSmoothness": "barrel_stove_dc54f_MetallicSmoothness.png"
+    },
+    {
+      "source": "barrier.001",
+      "name": "barrier_001_1dcd6",
+      "base_color": [
+        0.5879999995231628,
+        0.5879999995231628,
+        0.5879999995231628,
+        1.0
+      ],
+      "roughness": 0.858578622341156,
+      "metallic": 0.8272727131843567,
+      "alpha": 1.0,
+      "normal_strength": 0.30000001192092896,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "barrier_001_1dcd6_BaseColor_dec76.png",
+      "Roughness": "barrier_001_1dcd6_Roughness_bb87c_Data.png",
+      "Normal": "barrier_001_1dcd6_Normal_88ae5_Data.png",
+      "fbx_material": "SP_barrier_001_1dcd6",
+      "MetallicSmoothness": "barrier_001_1dcd6_MetallicSmoothness.png"
+    },
+    {
+      "source": "conclete.003",
+      "name": "conclete_003_b6a16",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8199999928474426,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "conclete_003_b6a16_BaseColor_6e208_Color.png",
+      "fbx_material": "SP_conclete_003_b6a16"
+    },
+    {
+      "source": "conclete.004",
+      "name": "conclete_004_9b369",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8199999928474426,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "conclete_003_b6a16_BaseColor_6e208_Color.png",
+      "fbx_material": "SP_conclete_004_9b369"
+    },
+    {
+      "source": "cracked_concrete_wall",
+      "name": "cracked_concrete_wall_71f0a",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "cracked_concrete_wall_71f0a_BaseColor_c0878.png",
+      "Roughness": "cracked_concrete_wall_71f0a_Roughness_e6dcf_Data.png",
+      "Normal": "cracked_concrete_wall_71f0a_Normal_86643_Data.png",
+      "fbx_material": "SP_cracked_concrete_wall_71f0a",
+      "MetallicSmoothness": "cracked_concrete_wall_71f0a_MetallicSmoothness.png"
+    },
+    {
+      "source": "dark cracked concrete wall",
+      "name": "dark_cracked_concrete_wall_f1faf",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "dark_cracked_concrete_wall_f1faf_BaseColor_f3474.png",
+      "Roughness": "cracked_concrete_wall_71f0a_Roughness_e6dcf_Data.png",
+      "Normal": "cracked_concrete_wall_71f0a_Normal_86643_Data.png",
+      "fbx_material": "SP_dark_cracked_concrete_wall_f1faf",
+      "MetallicSmoothness": "dark_cracked_concrete_wall_f1faf_MetallicSmoothness.png"
+    },
+    {
+      "source": "forrest_ground_01",
+      "name": "forrest_ground_01_53b96",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "forrest_ground_01_53b96_BaseColor_2f961.png",
+      "Roughness": "forrest_ground_01_53b96_Roughness_666ff_Data.png",
+      "Normal": "forrest_ground_01_53b96_Normal_df8af_Data.png",
+      "fbx_material": "SP_forrest_ground_01_53b96",
+      "MetallicSmoothness": "forrest_ground_01_53b96_MetallicSmoothness.png"
+    },
+    {
+      "source": "grass_medium_01",
+      "name": "grass_medium_01_63908",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.8999999761581421,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "grass_medium_01_63908_BaseColorAlpha.png",
+      "Alpha": "grass_medium_01_63908_Alpha_2b619_Data.png",
+      "fbx_material": "SP_grass_medium_01_63908"
+    },
+    {
+      "source": "hangar_concrete_floor",
+      "name": "hangar_concrete_floor_ed6e6",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "hangar_concrete_floor_ed6e6_BaseColor_f1aa4_Color.png",
+      "Roughness": "hangar_concrete_floor_ed6e6_Roughness_1827b_Data.png",
+      "Normal": "hangar_concrete_floor_ed6e6_Normal_24c38_Data.png",
+      "fbx_material": "SP_hangar_concrete_floor_ed6e6",
+      "MetallicSmoothness": "hangar_concrete_floor_ed6e6_MetallicSmoothness.png"
+    },
+    {
+      "source": "large_iron_gate",
+      "name": "large_iron_gate_6d564",
+      "base_color": [
+        0.010167748667299747,
+        0.010167748667299747,
+        0.010167748667299747,
+        1.0
+      ],
+      "roughness": 0.27358490228652954,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "large_iron_gate_6d564_BaseColor_67c99_Color.png",
+      "Roughness": "large_iron_gate_6d564_Roughness_4287f_Data.png",
+      "Metallic": "large_iron_gate_6d564_Metallic_e48e4_Data.png",
+      "Normal": "large_iron_gate_6d564_Normal_55533_Data.png",
+      "fbx_material": "SP_large_iron_gate_6d564",
+      "MetallicSmoothness": "large_iron_gate_6d564_MetallicSmoothness.png"
+    },
+    {
+      "source": "metal_trash_can",
+      "name": "metal_trash_can_03fcc",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "metal_trash_can_03fcc_BaseColor_467ed_Color.png",
+      "Roughness": "metal_trash_can_03fcc_Roughness_e9286_Data.png",
+      "Metallic": "metal_trash_can_03fcc_Metallic_e31ad_Data.png",
+      "Normal": "metal_trash_can_03fcc_Normal_62bec_Data.png",
+      "fbx_material": "SP_metal_trash_can_03fcc",
+      "MetallicSmoothness": "metal_trash_can_03fcc_MetallicSmoothness.png"
+    },
+    {
+      "source": "metal_trash_can_rust",
+      "name": "metal_trash_can_rust_847b3",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "metal_trash_can_rust_847b3_BaseColor_155df_Color.png",
+      "Roughness": "metal_trash_can_rust_847b3_Roughness_0c148_Data.png",
+      "Metallic": "metal_trash_can_rust_847b3_Metallic_387af_Data.png",
+      "Normal": "metal_trash_can_rust_847b3_Normal_3d21c_Data.png",
+      "fbx_material": "SP_metal_trash_can_rust_847b3",
+      "MetallicSmoothness": "metal_trash_can_rust_847b3_MetallicSmoothness.png"
+    },
+    {
+      "source": "modular_fire_escape_01",
+      "name": "modular_fire_escape_01_c6040",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "modular_fire_escape_01_c6040_BaseColor_db61e_Color.png",
+      "Roughness": "modular_fire_escape_01_c6040_Roughness_29b64_Data.png",
+      "Metallic": "modular_fire_escape_01_c6040_Metallic_f78f5_Data.png",
+      "Normal": "modular_fire_escape_01_c6040_Normal_a0211_Data.png",
+      "fbx_material": "SP_modular_fire_escape_01_c6040",
+      "MetallicSmoothness": "modular_fire_escape_01_c6040_MetallicSmoothness.png"
+    },
+    {
+      "source": "modular_fire_escape_02",
+      "name": "modular_fire_escape_02_cf290",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "modular_fire_escape_02_cf290_BaseColor_c2685_Color.png",
+      "Roughness": "modular_fire_escape_02_cf290_Roughness_50312_Data.png",
+      "Metallic": "modular_fire_escape_02_cf290_Metallic_04395_Data.png",
+      "Normal": "modular_fire_escape_02_cf290_Normal_e07f9_Data.png",
+      "fbx_material": "SP_modular_fire_escape_02_cf290",
+      "MetallicSmoothness": "modular_fire_escape_02_cf290_MetallicSmoothness.png"
+    },
+    {
+      "source": "pine_sapling_small_bark",
+      "name": "pine_sapling_small_bark_3e0eb",
+      "base_color": [
+        0.10874480754137039,
+        0.07536032795906067,
+        0.04797831550240517,
+        1.0
+      ],
+      "roughness": 0.7686567306518555,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "pine_sapling_small_bark_3e0eb_BaseColor_574be_Color.png",
+      "Roughness": "pine_sapling_small_bark_3e0eb_Roughness_b4bdc_Data.png",
+      "Normal": "pine_sapling_small_bark_3e0eb_Normal_038ee_Data.png",
+      "fbx_material": "SP_pine_sapling_small_bark_3e0eb",
+      "MetallicSmoothness": "pine_sapling_small_bark_3e0eb_MetallicSmoothness.png"
+    },
+    {
+      "source": "rope",
+      "name": "rope_379e8",
+      "base_color": [
+        0.5879999995231628,
+        0.5879999995231628,
+        0.5879999995231628,
+        1.0
+      ],
+      "roughness": 0.858578622341156,
+      "metallic": 0.8272727131843567,
+      "alpha": 1.0,
+      "normal_strength": 0.30000001192092896,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "BaseColor": "rope_379e8_BaseColor_a1f57.png",
+      "Roughness": "barrier_001_1dcd6_Roughness_bb87c_Data.png",
+      "Normal": "barrier_001_1dcd6_Normal_88ae5_Data.png",
+      "fbx_material": "SP_rope_379e8",
+      "MetallicSmoothness": "rope_379e8_MetallicSmoothness.png"
+    },
+    {
+      "source": "street_lamp_01.002",
+      "name": "street_lamp_01_002_7dc2e",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "street_lamp_01_002_7dc2e_BaseColor_7685d_Color.png",
+      "Roughness": "street_lamp_01_002_7dc2e_Roughness_e9a32_Data.png",
+      "Metallic": "street_lamp_01_002_7dc2e_Metallic_3d51a_Data.png",
+      "Normal": "street_lamp_01_002_7dc2e_Normal_f1088_Data.png",
+      "fbx_material": "SP_street_lamp_01_002_7dc2e",
+      "MetallicSmoothness": "street_lamp_01_002_7dc2e_MetallicSmoothness.png"
+    },
+    {
+      "source": "street_lamp_01_bulb.002",
+      "name": "street_lamp_01_bulb_002_e217e",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "street_lamp_01_002_7dc2e_BaseColor_7685d_Color.png",
+      "Roughness": "street_lamp_01_002_7dc2e_Roughness_e9a32_Data.png",
+      "Metallic": "street_lamp_01_002_7dc2e_Metallic_3d51a_Data.png",
+      "Normal": "street_lamp_01_002_7dc2e_Normal_f1088_Data.png",
+      "fbx_material": "SP_street_lamp_01_bulb_002_e217e",
+      "MetallicSmoothness": "street_lamp_01_bulb_002_e217e_MetallicSmoothness.png"
+    },
+    {
+      "source": "street_lamp_01_glass.002",
+      "name": "street_lamp_01_glass_002_fe64b",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "street_lamp_01_glass_002_fe64b_BaseColorAlpha.png",
+      "Roughness": "street_lamp_01_002_7dc2e_Roughness_e9a32_Data.png",
+      "Metallic": "street_lamp_01_002_7dc2e_Metallic_3d51a_Data.png",
+      "Alpha": "street_lamp_01_glass_002_fe64b_Alpha_f185f_Data.png",
+      "Normal": "street_lamp_01_002_7dc2e_Normal_f1088_Data.png",
+      "fbx_material": "SP_street_lamp_01_glass_002_fe64b",
+      "MetallicSmoothness": "street_lamp_01_glass_002_fe64b_MetallicSmoothness.png"
+    },
+    {
+      "source": "street_lamp_02",
+      "name": "street_lamp_02_4f8f9",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "street_lamp_02_4f8f9_BaseColor_7c724_Color.png",
+      "Roughness": "street_lamp_02_4f8f9_Roughness_3f7c9_Data.png",
+      "Metallic": "street_lamp_02_4f8f9_Metallic_45637_Data.png",
+      "Normal": "street_lamp_02_4f8f9_Normal_cebcd_Data.png",
+      "fbx_material": "SP_street_lamp_02_4f8f9",
+      "MetallicSmoothness": "street_lamp_02_4f8f9_MetallicSmoothness.png"
+    },
+    {
+      "source": "street_lamp_02_bulb",
+      "name": "street_lamp_02_bulb_08f05",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "street_lamp_02_4f8f9_BaseColor_7c724_Color.png",
+      "Roughness": "street_lamp_02_4f8f9_Roughness_3f7c9_Data.png",
+      "Metallic": "street_lamp_02_4f8f9_Metallic_45637_Data.png",
+      "Normal": "street_lamp_02_4f8f9_Normal_cebcd_Data.png",
+      "fbx_material": "SP_street_lamp_02_bulb_08f05",
+      "MetallicSmoothness": "street_lamp_02_bulb_08f05_MetallicSmoothness.png"
+    },
+    {
+      "source": "street_lamp_02_glass",
+      "name": "street_lamp_02_glass_1d515",
+      "base_color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "emission_strength": 1.0,
+      "BaseColor": "street_lamp_02_glass_1d515_BaseColorAlpha.png",
+      "Roughness": "street_lamp_02_4f8f9_Roughness_3f7c9_Data.png",
+      "Metallic": "street_lamp_02_4f8f9_Metallic_45637_Data.png",
+      "Alpha": "street_lamp_02_glass_1d515_Alpha_8afa5_Data.png",
+      "Normal": "street_lamp_02_4f8f9_Normal_cebcd_Data.png",
+      "fbx_material": "SP_street_lamp_02_glass_1d515",
+      "MetallicSmoothness": "street_lamp_02_glass_1d515_MetallicSmoothness.png"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb",
+      "name": "__cb34b",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 0.8999999761581421,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP___cb34b"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.001",
+      "name": "_001_f3ae8",
+      "base_color": [
+        0.029999999329447746,
+        0.057999998331069946,
+        0.06199999898672104,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__001_f3ae8"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.002",
+      "name": "_002_3c3da",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__002_3c3da"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.003",
+      "name": "_003_36019",
+      "base_color": [
+        0.029999999329447746,
+        0.057999998331069946,
+        0.06199999898672104,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__003_36019"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.004",
+      "name": "_004_ff3a3",
+      "base_color": [
+        0.16840527951717377,
+        0.16840527951717377,
+        0.16840527951717377,
+        1.0
+      ],
+      "roughness": 0.3965517282485962,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__004_ff3a3"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.005",
+      "name": "_005_c4439",
+      "base_color": [
+        0.16840527951717377,
+        0.16840527951717377,
+        0.16840527951717377,
+        1.0
+      ],
+      "roughness": 0.3965517282485962,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__005_c4439"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.006",
+      "name": "_006_58282",
+      "base_color": [
+        0.16840527951717377,
+        0.16840527951717377,
+        0.16840527951717377,
+        1.0
+      ],
+      "roughness": 0.3965517282485962,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__006_58282"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.007",
+      "name": "_007_cee96",
+      "base_color": [
+        0.16840527951717377,
+        0.16840527951717377,
+        0.16840527951717377,
+        1.0
+      ],
+      "roughness": 0.3965517282485962,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__007_cee96"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.008",
+      "name": "_008_c38f1",
+      "base_color": [
+        0.16840527951717377,
+        0.16840527951717377,
+        0.16840527951717377,
+        1.0
+      ],
+      "roughness": 0.3965517282485962,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__008_c38f1"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.014",
+      "name": "_014_ee1c5",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__014_ee1c5"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.016",
+      "name": "_016_a221a",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 0.8999999761581421,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__016_a221a"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.017",
+      "name": "_017_9a3a0",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 0.8999999761581421,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__017_9a3a0"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.019",
+      "name": "_019_53b7b",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__019_53b7b"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.020",
+      "name": "_020_a4dd7",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__020_a4dd7"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.022",
+      "name": "_022_ac0f3",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 0.8999999761581421,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__022_ac0f3"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.023",
+      "name": "_023_3690a",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 0.8999999761581421,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__023_3690a"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.025",
+      "name": "_025_bc101",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__025_bc101"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.026",
+      "name": "_026_f06d7",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__026_f06d7"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.028",
+      "name": "_028_77f16",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 0.8999999761581421,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__028_77f16"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.029",
+      "name": "_029_388af",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 0.8999999761581421,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__029_388af"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.031",
+      "name": "_031_d3bf6",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__031_d3bf6"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.032",
+      "name": "_032_16987",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__032_16987"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.034",
+      "name": "_034_f1a40",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 0.8999999761581421,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__034_f1a40"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.035",
+      "name": "_035_c88b5",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 0.8999999761581421,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__035_c88b5"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.037",
+      "name": "_037_d1769",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__037_d1769"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.038",
+      "name": "_038_2849a",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 1.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__038_2849a"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.040",
+      "name": "_040_0a681",
+      "base_color": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.30000001192092896,
+        1.0
+      ],
+      "roughness": 0.30000001192092896,
+      "metallic": 0.8999999761581421,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__040_0a681"
+    },
+    {
+      "source": "\u30de\u30c6\u30ea\u30a2\u30eb.041",
+      "name": "_041_9bdb6",
+      "base_color": [
+        0.029999999329447746,
+        0.057999998331069946,
+        0.06199999898672104,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "alpha": 1.0,
+      "normal_strength": 1.0,
+      "emission_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emission_strength": 0.0,
+      "fbx_material": "SP__041_9bdb6"
+    }
+  ],
+  "lights": [
+    {
+      "name": "Moon_Cool_Key",
+      "type": "SUN",
+      "position": [
+        0.0,
+        0.0,
+        30.0
+      ],
+      "rotation": [
+        0.5,
+        -0.699999988079071,
+        -0.30000001192092896
+      ],
+      "color": [
+        0.41999998688697815,
+        0.6200000047683716,
+        1.0
+      ],
+      "energy": 1.100000023841858
+    },
+    {
+      "name": "LampGlow_street_lamp_01",
+      "type": "POINT",
+      "position": [
+        2.234083414077759,
+        4.974113464355469,
+        3.4505553245544434
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        0.5199999809265137,
+        0.20999999344348907
+      ],
+      "energy": 95.0
+    },
+    {
+      "name": "LampGlow_street_lamp_01.001",
+      "type": "POINT",
+      "position": [
+        2.234083414077759,
+        11.655498504638672,
+        3.4505553245544434
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        0.5199999809265137,
+        0.20999999344348907
+      ],
+      "energy": 95.0
+    },
+    {
+      "name": "LampGlow_street_lamp_01.002",
+      "type": "POINT",
+      "position": [
+        -5.900339126586914,
+        4.974113464355469,
+        3.4505553245544434
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        0.5199999809265137,
+        0.20999999344348907
+      ],
+      "energy": 95.0
+    },
+    {
+      "name": "LampGlow_street_lamp_01.003",
+      "type": "POINT",
+      "position": [
+        -5.900339126586914,
+        11.655498504638672,
+        3.4505553245544434
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        0.5199999809265137,
+        0.20999999344348907
+      ],
+      "energy": 95.0
+    },
+    {
+      "name": "LampGlow_street_lamp_01.004",
+      "type": "POINT",
+      "position": [
+        -5.864157676696777,
+        18.664546966552734,
+        4.5843987464904785
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        0.5199999809265137,
+        0.20999999344348907
+      ],
+      "energy": 95.0
+    },
+    {
+      "name": "LampGlow_street_lamp_01.005",
+      "type": "POINT",
+      "position": [
+        -1.6312642097473145,
+        18.664546966552734,
+        4.5843987464904785
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        0.5199999809265137,
+        0.20999999344348907
+      ],
+      "energy": 95.0
+    },
+    {
+      "name": "LampGlow_street_lamp_02",
+      "type": "POINT",
+      "position": [
+        -4.685790061950684,
+        0.7617810964584351,
+        2.6054861545562744
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        0.5199999809265137,
+        0.20999999344348907
+      ],
+      "energy": 95.0
+    },
+    {
+      "name": "LampGlow_street_lamp_02.001",
+      "type": "POINT",
+      "position": [
+        1.0037420988082886,
+        0.7617810964584351,
+        2.6054861545562744
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        0.5199999809265137,
+        0.20999999344348907
+      ],
+      "energy": 95.0
+    },
+    {
+      "name": "LampGlow_street_lamp_02.002",
+      "type": "POINT",
+      "position": [
+        -0.18789741396903992,
+        -4.066601753234863,
+        4.902688503265381
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        0.5199999809265137,
+        0.20999999344348907
+      ],
+      "energy": 95.0
+    },
+    {
+      "name": "LampGlow_street_lamp_02.003",
+      "type": "POINT",
+      "position": [
+        -0.18789741396903992,
+        -12.514240264892578,
+        4.902688503265381
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        0.5199999809265137,
+        0.20999999344348907
+      ],
+      "energy": 95.0
+    },
+    {
+      "name": "LampGlow_street_lamp_02.004",
+      "type": "POINT",
+      "position": [
+        -3.255460262298584,
+        -16.478221893310547,
+        4.902688503265381
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        0.5199999809265137,
+        0.20999999344348907
+      ],
+      "energy": 95.0
+    },
+    {
+      "name": "LampGlow_street_lamp_02.005",
+      "type": "POINT",
+      "position": [
+        -3.255460739135742,
+        -8.030583381652832,
+        4.902688503265381
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        0.5199999809265137,
+        0.20999999344348907
+      ],
+      "energy": 95.0
+    }
+  ]
+}
